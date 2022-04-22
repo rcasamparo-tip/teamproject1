@@ -4,7 +4,7 @@ mkdir tempdir
 mkdir tempdir/templates
 mkdir tempdir/static
 
-cp midterm_app.py tempdir/.
+cp teamproject_app.py tempdir/.
 cp -r templates/* tempdir/templates/.
 cp -r static/* tempdir/static/.
 
